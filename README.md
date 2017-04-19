@@ -14,7 +14,7 @@ npm run dev
 ### 发布模式
 npm run build
 
-### 发版且保留日志
+### 发版且生成报告
 npm run build --report
 ```
 ## 目录介绍
