@@ -1,17 +1,15 @@
 <template>
-  <div class="hello">
+  <div class="Coco">
     <h1>{{ msg }}</h1>
-    <h2>hello world</h2>
-    
   </div>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'Coco',
   data () {
     return {
-      msg: '我只是来试一下你不要这样吧11122222222333～'
+      msg: '我是 COCO,我很乖,我马上两岁了'
     }
   }
 }
