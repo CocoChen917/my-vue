@@ -1,23 +1,21 @@
-# my-vue
+# company
 
-> 基于Vue的项目
+> A Vue.js project
 
-## 构建步骤
+## Build Setup
 
 ``` bash
-### 安装项目依赖
+# install dependencies
 npm install
 
-### 开发模式，本地地址 localhost:8080
+# serve with hot reload at localhost:8080
 npm run dev
 
-### 发布模式
+# build for production with minification
 npm run build
 
-### 发版且生成报告
+# build for production and view the bundle analyzer report
 npm run build --report
 ```
-## 目录介绍
 
-> build
-		
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

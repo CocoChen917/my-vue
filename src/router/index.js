@@ -1,39 +1,29 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import Hello from '@/components/Hello'
-import Coco from '@/components/Coco'
-import Test from '@/components/Test'
-import Header from '@/components/Header'
-import first from '@/page/first'
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-default/index.css'
-import locale from 'element-ui/lib/locale/lang/en'
+import App from '@/App'
 
-Vue.use(Router)
-Vue.use(ElementUI, { locale })
-
-export default new Router({
-  routes: [
-    {
-      path: '/',
-      name: 'Hello',
-      component: Hello
-    },{
-    	path: '/coco',
-    	name: 'Coco',
-    	component: Coco
-    },{
-      path: '/test',
-      name: 'Test',
-      component: Test
-    },{
-      path: '/header',
-      name: 'Header',
-      component: Header
-    },{
-      path: '/first',
-      name: 'first',
-      component:first
-    }
-  ]
-})
+const company_list = r => require.ensure([], () => r(require('@/pages/company_list')), 'company_list')
+const company_info = r => require.ensure([], () => r(require('@/pages/company_info')), 'company_info')
+const nopage = r => require.ensure([], () => r(require('@/pages/nopage')), 'nopage')
+const test = r => require.ensure([], () => r(require('@/pages/test')), 'test')
+const test2 = r => require.ensure([], () => r(require('@/pages/test2')), 'test2')
+export default [{
+	path:'/',
+	component: App,
+	children: [
+		{
+			path: '/company_list/:name',
+			component: company_list
+		},{
+			path: '/company_info/:id',
+			component: company_info
+		},{
+			path: '/test/:msg',
+			component: test
+		},{
+			path: '/test2',
+			component: test2
+		},{
+			path: '/*',
+			component: nopage
+		}
+	]
+}]
