@@ -1,0 +1,332 @@
+{
+  "status_code": 0,
+  "contact_relation_max": false,
+  "inbox_max": -1,
+  "member_status": -1,
+  "message": "",
+  "data": {
+    "id": 14064,
+    "name_cn": "IDG资本",
+    "short_name_cn": "IDG资本",
+    "intro_cn": "IDG资本专注于与中国市场有关的VC/PE投资项目，在香港、北京、上海、广州、深圳等地设有办事处。<br/><br/>IDG资本重点关注消费品、连锁服务、互联网及无线应用、新媒体、教育、医疗健康、新能源、先进制造等领域的拥有一流品牌的领先企业，覆盖初创期、成长期、成熟期、Pre-IPO各个阶段，投资规模从上百万美元到上千万美元不等。<br/><br/>自1992年开始，作为最早进入中国市场的国际投资机构之一，IDG资本已投资包括百度、搜狐、腾讯、搜房、携程、汉庭、如家、金蝶、物美、康辉、九安等300家优秀企业，并已有超过70家企业在美国、中国香港、中国A股证券市场上市，或通过M&A成功退出。<br/><br/>IDG资本的投资管理团队合作稳定、专业全面，具有互补的国内外教育及行业背景，丰富的企业管理、投资运作和资本市场经验，七位资深合伙人的合作时间超过10年以上。<br/><br/>IDG资本深刻理解中国本土市场特点，始终追求长期价值投资，与企业家保持长期亲密的合作关系。除为企业发展提供成长资金外，还在吸纳优秀人才、建立现代企业制度、寻找战略合作伙伴、重组并购等方面为企业提供专业支持、经验和资源。<br/><br/>IDG资本获得了国际数据集团（IDG）和ACCEL Partners的鼎力支持，拥有广泛的海外市场资源及强大的网络支持。IDG资本深感自豪的是与企业家、行业领袖、各级政府部门间所建立的良好关系，致力于长期参与中国卓越企业的发展！",
+    "found_time": "1992-07-31 16:00:00",
+    "get_new_type_display": "VC",
+    "email": null,
+    "reg_address": "中国大陆-北京-朝阳区",
+    "legal_representative": null,
+    "address_cn": "",
+    "tel": "",
+    "funds": [
+      {
+        "name_cn": "IDG医疗专项人民币基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2016-03-17 08:00:00"
+      },
+      {
+        "name_cn": "纷享投资",
+        "capital_amount": "未透露",
+        "set_up_time": "2015-11-25 08:00:00"
+      },
+      {
+        "name_cn": "IDG-Accel China Investors L.P.",
+        "capital_amount": "未透露",
+        "set_up_time": "2015-11-25 08:00:00"
+      },
+      {
+        "name_cn": "IDG-Accel中国成长基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2011-07-12 08:00:00"
+      },
+      {
+        "name_cn": "IDG技术创业投资基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      },
+      {
+        "name_cn": "IDG中国媒体基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      },
+      {
+        "name_cn": "IDG-Accel中国成长基金二期",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      },
+      {
+        "name_cn": "太平洋技术风险投资基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      },
+      {
+        "name_cn": "IDGVC人民币基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      },
+      {
+        "name_cn": "IDG-Accel中国资本基金",
+        "capital_amount": "未透露",
+        "set_up_time": "2010-01-01 00:00:00"
+      }
+    ],
+    "invests": [
+      {
+        "company_name": "衣二三",
+        "phase": "PE投资-B轮",
+        "amount": "未透露",
+        "happened_date": "2016-04-25 00:00:00"
+      },
+      {
+        "company_name": "易思汇",
+        "phase": "PE投资-B轮",
+        "amount": "未透露",
+        "happened_date": "2016-04-25 00:00:00"
+      },
+      {
+        "company_name": "链尚网",
+        "phase": "PE投资-B轮",
+        "amount": "1千万美元",
+        "happened_date": "2016-04-14 00:00:00"
+      },
+      {
+        "company_name": "同盾科技",
+        "phase": "PE投资-D轮及之后",
+        "amount": "3千万美元",
+        "happened_date": "2016-04-13 00:00:00"
+      },
+      {
+        "company_name": "Insta360",
+        "phase": "PE投资-C轮",
+        "amount": "未透露",
+        "happened_date": "2016-04-13 00:00:00"
+      },
+      {
+        "company_name": "中搜网络",
+        "phase": "PE投资-C轮",
+        "amount": "6千万人民币",
+        "happened_date": "2016-04-05 00:00:00"
+      },
+      {
+        "company_name": "会小二",
+        "phase": "PE投资-B轮",
+        "amount": "未透露",
+        "happened_date": "2016-03-22 00:00:00"
+      },
+      {
+        "company_name": "极验",
+        "phase": "PE投资-D轮及之后",
+        "amount": "2千万美元",
+        "happened_date": "2016-03-22 00:00:00"
+      },
+      {
+        "company_name": "美黛拉",
+        "phase": "PE投资-B轮",
+        "amount": "1千万美元",
+        "happened_date": "2016-03-21 00:00:00"
+      },
+      {
+        "company_name": "昆仑决",
+        "phase": "PE投资-B轮",
+        "amount": "未透露",
+        "happened_date": "2016-03-17 00:00:00"
+      }
+    ],
+    "teams": [
+      {
+        "name": "周全(Quan Zhou)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "杨飞(Fei Yang)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "吴颖(Ying Wu)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "熊晓鸽(Hugo Shong)",
+        "title": "创始合伙人/常务副总裁/亚洲区总裁/"
+      },
+      {
+        "name": "宁君(Jun Ning)",
+        "title": "投资合伙人/"
+      },
+      {
+        "name": "林栋梁(Dongliang Lin)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "李骁军(Xiaojun Li)",
+        "title": "资深合伙人/"
+      },
+      {
+        "name": "李建光(Jianguang Li)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "侯朗基(Kenny Hou)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "何志成(Simon Ho)",
+        "title": "首席财务官/"
+      },
+      {
+        "name": "过以宏(Young Guo)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "朱建寰(Jian Zhu)",
+        "title": "投资合伙人/"
+      },
+      {
+        "name": "俞信华(Xinhua Yu)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "牛奎光(Justin Niu)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "何昊(Hao He)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "钟秋月(Qiuyue Zhong)",
+        "title": "投资经理/"
+      },
+      {
+        "name": "杨锐(Rui Yang)",
+        "title": "创始合伙人/"
+      },
+      {
+        "name": "Alexandre Quirici",
+        "title": "投资合伙人/"
+      },
+      {
+        "name": "蒋建宁(Jianning Jiang)",
+        "title": "高级顾问/"
+      },
+      {
+        "name": "李娇(Jiao Li)",
+        "title": "分析师/"
+      },
+      {
+        "name": "马伊辰(Mandy Ma)",
+        "title": "分析师/"
+      },
+      {
+        "name": "曹迪军(Dijun Cao)",
+        "title": "常驻代表/"
+      },
+      {
+        "name": "冯祺(Qi Feng)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "马心婷(Michelle Ma)",
+        "title": "首席代表/"
+      },
+      {
+        "name": "谢建平(Jianping Xie)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "闫极晟(Jeacy Yan)",
+        "title": "副总裁/投资合伙人/"
+      },
+      {
+        "name": "王辛(Rex Wang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "董叶顺(Yeshun Dong)",
+        "title": "投资合伙人/"
+      },
+      {
+        "name": "连盟(Meng Lian)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "王静波(Jingbo Wang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "张岱(Dai Zhang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "张建斌(Jianbin Zhang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "姚海波(Haibo Yao)",
+        "title": "首席代表/"
+      },
+      {
+        "name": "闫怡勝(Jeacy Yan)",
+        "title": "投资合伙人/"
+      },
+      {
+        "name": "张海涛(Haitao Zhang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "李彤(Tong Li)",
+        "title": "创始合伙人/"
+      },
+      {
+        "name": "李莹(Ying Li)",
+        "title": "投资经理/"
+      },
+      {
+        "name": "皇甫炳君(Junbing Huangfu)",
+        "title": "合伙人/"
+      },
+      {
+        "name": "兰希(Xi Lan)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "楼军(Jun Lou)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "欧阳鲲(Kun Ouyang)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "邵辉(Hui Shao)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "孙宇含(Yuhan Sun)",
+        "title": "投资经理/"
+      },
+      {
+        "name": "童晨(Chen Tong)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "奚玉湘(Andy Xi)",
+        "title": "投资经理/"
+      },
+      {
+        "name": "甄志勇(Jason Zhen)",
+        "title": "副总裁/"
+      },
+      {
+        "name": "朱子川(Zichuan Zhu)",
+        "title": "分析师/"
+      },
+      {
+        "name": "翟萍(Ping Qu)",
+        "title": "合伙人/投资总监/"
+      }
+    ],
+    "summary": {
+      "funds_count": 26,
+      "invests_count": 659
+    }
+  }
+}
